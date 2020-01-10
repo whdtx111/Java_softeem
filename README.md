@@ -1,10 +1,10 @@
 # Java_softeem
 The Road Of Java Studying
 
-##DataBase
+## DataBase
 MySql数据库基础教程
 
-##ProductManager
+## ProductManager
 用Java连接操作数据库的第一个项目
 实现商品管理系统
  **商品管理**
